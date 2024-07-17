@@ -34,13 +34,14 @@ if(b<=a)
     console.log("how are you");
 
 
-a=b;
+a=5
+b="5";
 
 if(a==b)
-    console.log("my name is sudhanshu");
+    console.log("my name is sudhanshu");  //if use == then it not check the type of variable it only check content of variable
 
 if(a===b)
-    console.log("my name is sudhanshu");
+    console.log("my name is sudhanshu");  //if use === then it check type of variable
 
 
 a=2
