@@ -1,1 +1,2 @@
 Javascript
+| Consol.log|
