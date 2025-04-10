@@ -10,3 +10,7 @@
 | 7 | Control Structures |
 | 8 | Loops |
 | 9 | Arrays |
+| 10 | function|
+| 11 | Objects |
+| 12| JSON |
+| 13 |Higher Order Function|
