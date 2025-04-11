@@ -14,3 +14,4 @@
 | 11 | Objects |
 | 12| JSON |
 | 13 |Higher Order Function|
+| 14 | Destructuring and Spread |
