@@ -14,4 +14,6 @@
 | 11 | Objects |
 | 12| JSON |
 | 13 |Higher Order Function|
-| 14 | Destructuring and Spread |
+| 14 | ES6+ Features |
+| 15 | DOM Manipulation |
+| 16 | Event Handling|
